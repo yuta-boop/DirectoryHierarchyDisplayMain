@@ -1,0 +1,17 @@
+# Javaによくあるビルド生成物
+*.class
+*.jar
+*.log
+
+# IDE系の設定
+.vscode/
+.idea/
+
+# ビルド用フォルダ
+bin/
+out/
+target/
+
+# OSごとの不要ファイル
+.DS_Store
+Thumbs.db
